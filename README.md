@@ -1,13 +1,13 @@
 # Redux-Cart
 
 
-Basic Form app built with React, JavaScript, Redux and CSS
+Basic Form app built with React, JavaScript, Redux, and CSS
 
 -----
 
 ##### Download:
 
-`$ git clone https://github.com/samira1992/react-form-app.git`
+`$ git clone https://github.com/samira1992/Redux-Cart.git`
 
 `$ cd path to the folder`
 
